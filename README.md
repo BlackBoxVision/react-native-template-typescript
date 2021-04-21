@@ -15,7 +15,7 @@
   </a>
 </p>
 
-> Clean and minimalist React Native template for a quick start with TypeScript.
+> React Native template for a quick start with TypeScript, common libs and config ready to use.
 
 ## :star: Features
 
@@ -26,7 +26,7 @@
 ## :arrow_forward: Usage
 
 ```sh
-npx react-native init MyApp --template react-native-template-typescript
+npx react-native init MyApp --template @blackbox-vision/react-native-template-typescript
 ```
 
 ### Usage with older versions of React Native
@@ -34,7 +34,7 @@ npx react-native init MyApp --template react-native-template-typescript
 #### e.g. `react-native@0.63.x`
 
 ```sh
-npx react-native init MyApp --template react-native-template-typescript@6.5.*
+npx react-native init MyApp --template @blackbox-vision/react-native-template-typescript@6.5.*
 ```
 
 See the below table to find out which version of the template to use.

@@ -1,7 +1,7 @@
 {
   "name": "@blackbox-vision/react-native-template-typescript",
   "version": "0.0.1",
-  "description": "React Native template for a quick start with TypeScript.",
+  "description": "React Native template for a quick start with TypeScript, common libs and config ready to use",
   "scripts": {
     "test": "exit 0",
     "prepublishOnly": "npm --no-git-tag-version version $TRAVIS_TAG"
