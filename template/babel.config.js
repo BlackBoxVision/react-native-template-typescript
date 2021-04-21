@@ -1,3 +1,3 @@
 module.exports = {
-  presets: ['module:metro-react-native-babel-preset'],
+  presets: ['@blackbox-vision/react-native-babel-preset'],
 };
